@@ -1,0 +1,1 @@
+{'Models': [{'ModelName': 'User', 'Inheritance': 'ApplicationRecord', 'Attributes': [], 'Relationships': [], 'Validations': [], 'Scopes': [], 'Callbacks': [], 'CustomMethods': []}, {'ModelName': 'Task', 'Inheritance': 'ApplicationRecord', 'Attributes': [], 'Relationships': [], 'Validations': [], 'Scopes': [], 'Callbacks': [], 'CustomMethods': []}]}
